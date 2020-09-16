@@ -4,7 +4,7 @@ myVideo.muted = true;
 const peers = {};
 const myPeer = new Peer();
 
-const socket = io("http://167.71.227.221:8899");
+const socket = io("https://sultantracker.com/");
 
 let myStream = null;
 
